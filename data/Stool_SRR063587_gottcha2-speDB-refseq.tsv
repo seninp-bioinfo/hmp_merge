@@ -1,0 +1,325 @@
+LEVEL	NAME	TAXID	READ_COUNT	TOTAL_BP_MAPPED	TOTAL_BP_MISMATCH	LINEAR_LENGTH	LINEAR_DOC	REL_ABUNDANCE
+superkingdom	Bacteria	2	216891	35806996	252265	12067232	2.9673	1.0000
+phylum	Bacteroidetes	976	204160	33238874	223636	10034565	3.3124	0.9414
+phylum	Proteobacteria	1224	6680	1630937	14734	1190508	1.3700	0.0308
+phylum	Firmicutes	1239	5809	905767	13409	812696	1.1145	0.0268
+phylum	Actinobacteria	201174	217	29663	429	27857	1.0648	0.0010
+phylum	Verrucomicrobia	74201	9	1053	54	1014	1.0385	0.0000
+phylum	Cyanobacteria	1117	3	95	0	61	1.5574	0.0000
+class	Bacteroidia	200643	204152	33238623	223636	10034410	3.3125	0.9414
+class	Betaproteobacteria	28216	6347	1596770	14304	1158693	1.3781	0.0293
+class	Clostridia	186801	5483	864379	12518	774630	1.1159	0.0253
+class	Deltaproteobacteria	28221	306	31116	400	29308	1.0617	0.0014
+class	Erysipelotrichia	526524	247	35634	702	32794	1.0866	0.0011
+class	Actinobacteria	1760	117	17290	110	17150	1.0082	0.0005
+class	Coriobacteriia	84998	100	12373	319	10707	1.1556	0.0005
+class	Bacilli	91061	33	2663	46	2450	1.0869	0.0002
+class	Negativicutes	909932	23	1277	35	1214	1.0519	0.0001
+class	Gammaproteobacteria	1236	20	2835	30	2354	1.2043	0.0001
+class	Verrucomicrobiae	203494	9	1053	54	1014	1.0385	0.0000
+class	Alphaproteobacteria	28211	7	216	0	153	1.4118	0.0000
+class	Flavobacteriia	117743	5	156	0	93	1.6774	0.0000
+order	Bacteroidales	171549	204152	33238623	223636	10034410	3.3125	0.9419
+order	Burkholderiales	80840	6347	1596770	14304	1158693	1.3781	0.0293
+order	Clostridiales	186802	5374	848099	12308	758501	1.1181	0.0248
+order	Desulfovibrionales	213115	303	31024	400	29219	1.0618	0.0014
+order	Erysipelotrichales	526525	247	35634	702	32794	1.0866	0.0011
+order	Bifidobacteriales	85004	114	16859	105	16722	1.0082	0.0005
+order	Coriobacteriales	84999	91	11162	312	9592	1.1637	0.0004
+order	Lactobacillales	186826	28	2471	44	2263	1.0919	0.0001
+order	Enterobacteriales	91347	19	2805	30	2325	1.2065	0.0001
+order	Acidaminococcales	1843488	17	960	34	903	1.0631	0.0001
+order	Eggerthellales	1643822	9	1211	7	1115	1.0861	0.0000
+order	Verrucomicrobiales	48461	9	1053	54	1014	1.0385	0.0000
+order	Veillonellales	1843489	5	287	1	282	1.0177	0.0000
+order	Bacillales	1385	5	192	2	187	1.0267	0.0000
+order	Flavobacteriales	200644	5	156	0	93	1.6774	0.0000
+order	Rhizobiales	356	5	155	0	94	1.6489	0.0000
+order	Desulfobacterales	213118	3	92	0	89	1.0337	0.0000
+order	Actinomycetales	2037	3	431	5	428	1.0070	0.0000
+family	Bacteroidaceae	815	153814	23669660	132358	5273461	4.4884	0.7107
+family	Porphyromonadaceae	171551	31452	6043786	54134	3230420	1.8709	0.1453
+family	Rikenellaceae	171550	18688	3506798	36466	1525402	2.2989	0.0864
+family	Sutterellaceae	995019	6345	1596513	14291	1158438	1.3782	0.0293
+family	Lachnospiraceae	186803	2552	405504	5958	355935	1.1393	0.0118
+family	Ruminococcaceae	541000	1189	189469	3543	178199	1.0632	0.0055
+family	Clostridiaceae	31979	676	101275	967	95095	1.0650	0.0031
+family	Oscillospiraceae	216572	579	96460	609	79675	1.2107	0.0027
+family	Desulfovibrionaceae	194924	303	31024	400	29219	1.0618	0.0014
+family	Erysipelotrichaceae	128827	247	35634	702	32794	1.0866	0.0011
+family	Prevotellaceae	171552	194	18232	677	5015	3.6355	0.0009
+family	Bifidobacteriaceae	31953	114	16859	105	16722	1.0082	0.0005
+family	Coriobacteriaceae	84107	91	11162	312	9592	1.1637	0.0004
+family	Eubacteriaceae	186806	58	5688	160	5475	1.0389	0.0003
+family	Enterobacteriaceae	543	19	2805	30	2325	1.2065	0.0001
+family	Peptostreptococcaceae	186804	18	2690	61	2672	1.0067	0.0001
+family	Acidaminococcaceae	909930	17	960	34	903	1.0631	0.0001
+family	Streptococcaceae	1300	15	1263	10	1248	1.0120	0.0001
+family	Eggerthellaceae	1643826	9	1211	7	1115	1.0861	0.0000
+family	Lactobacillaceae	33958	7	462	0	423	1.0922	0.0000
+family	Akkermansiaceae	1647988	7	991	54	984	1.0071	0.0000
+family	Enterococcaceae	81852	6	746	34	592	1.2601	0.0000
+family	Veillonellaceae	31977	5	287	1	282	1.0177	0.0000
+family	Flavobacteriaceae	49546	5	156	0	93	1.6774	0.0000
+family	Actinomycetaceae	2049	3	431	5	428	1.0070	0.0000
+genus	Bacteroides	816	153808	23669411	132350	5273385	4.4885	0.7173
+genus	Barnesiella	397864	19005	4202319	48058	1810278	2.3214	0.0886
+genus	Alistipes	239759	18682	3505916	36429	1525113	2.2988	0.0871
+genus	Parabacteroides	375288	8653	1119744	2872	825307	1.3568	0.0404
+genus	Sutterella	40544	6344	1596361	14272	1158287	1.3782	0.0296
+genus	Odoribacter	283168	3344	674403	2412	570283	1.1826	0.0156
+genus	Faecalibacterium	216851	638	113218	2357	105085	1.0774	0.0030
+genus	Clostridium	1485	626	94405	727	88635	1.0651	0.0029
+genus	Roseburia	841	414	66926	735	63648	1.0515	0.0019
+genus	Blautia	572511	368	45053	482	41452	1.0869	0.0017
+genus	Ruminococcus	1263	354	46420	579	44560	1.0417	0.0017
+genus	Bilophila	35832	301	30954	400	29185	1.0606	0.0014
+genus	Tannerella	195950	261	30022	222	12898	2.3276	0.0012
+genus	Prevotella	838	156	15820	599	4217	3.7515	0.0007
+genus	Dorea	189330	126	18418	285	17729	1.0389	0.0006
+genus	Coprobacter	1348911	118	9699	228	7490	1.2949	0.0006
+genus	Bifidobacterium	1678	114	16859	105	16722	1.0082	0.0005
+genus	Lachnoclostridium	1506553	111	13886	221	13071	1.0624	0.0005
+genus	Intestinimonas	1392389	109	17136	493	16027	1.0692	0.0005
+genus	Holdemania	61170	109	20127	465	17945	1.1216	0.0005
+genus	Collinsella	102106	89	11093	312	9525	1.1646	0.0004
+genus	Dielma	1472649	77	8284	129	7965	1.0401	0.0004
+genus	Ruminiclostridium	1508657	73	13756	118	13683	1.0053	0.0003
+genus	Eubacterium	1730	58	5688	160	5475	1.0389	0.0003
+genus	Oscillibacter	459786	48	3421	171	3190	1.0724	0.0002
+genus	Flavonifractor	946234	40	5038	83	4968	1.0141	0.0002
+genus	Paraprevotella	577309	38	2412	78	798	3.0226	0.0002
+genus	Pseudoflavonifractor	1017280	35	4065	112	2973	1.3673	0.0002
+genus	Butyricicoccus	580596	30	4764	197	4445	1.0718	0.0001
+genus	Butyricimonas	574697	27	4123	179	1910	2.1586	0.0001
+genus	Subdoligranulum	292632	27	3132	102	2916	1.0741	0.0001
+genus	Anaerotruncus	244127	21	3581	160	3338	1.0728	0.0001
+genus	Porphyromonas	836	21	2160	106	1868	1.1563	0.0001
+genus	Hungatella	1649459	19	1989	41	1899	1.0474	0.0001
+genus	Sanguibacteroides	1635148	16	1076	55	276	3.8986	0.0001
+genus	Phascolarctobacterium	33024	16	926	34	870	1.0644	0.0001
+genus	Escherichia	561	15	2246	23	1948	1.1530	0.0001
+genus	Tyzzerella	1506577	15	1566	54	1432	1.0936	0.0001
+genus	Peptoclostridium	1481960	13	1648	43	1635	1.0080	0.0001
+genus	Catonella	43996	8	1182	39	1045	1.1311	0.0000
+genus	Streptococcus	1301	8	479	3	471	1.0170	0.0000
+genus	Akkermansia	239934	7	991	54	984	1.0071	0.0000
+genus	Eggerthella	84111	7	752	1	658	1.1429	0.0000
+genus	Lactococcus	1357	7	784	7	777	1.0090	0.0000
+genus	Enterococcus	1350	6	746	34	592	1.2601	0.0000
+genus	Coprobacillus	100883	6	650	13	644	1.0093	0.0000
+genus	Coprococcus	33042	6	577	19	498	1.1586	0.0000
+genus	Rikenella	28138	6	882	37	289	3.0519	0.0000
+genus	Peptostreptococcus	1257	5	1042	18	1037	1.0048	0.0000
+genus	Veillonella	29465	4	252	1	248	1.0161	0.0000
+genus	Marvinbryantia	248744	4	213	5	209	1.0191	0.0000
+genus	Salmonella	590	3	528	7	347	1.5216	0.0000
+genus	Sharpea	519427	3	99	0	64	1.5469	0.0000
+genus	Butyrivibrio	830	3	468	14	465	1.0065	0.0000
+genus	Lactobacillus	1578	3	332	0	329	1.0091	0.0000
+genus	Actinomyces	1654	3	431	5	428	1.0070	0.0000
+genus	Oribacterium	265975	3	111	2	108	1.0278	0.0000
+genus	Lachnospira	28050	3	174	7	128	1.3594	0.0000
+genus	Anaerostipes	207244	3	304	7	301	1.0100	0.0000
+species	Bacteroides massiliensis	204516	99414	16628680	104214	3181199	5.2272	0.4589
+species	Bacteroides ovatus	28116	21155	2792782	4122	825290	3.3840	0.0976
+species	Barnesiella intestinihominis	487174	18963	4200293	48026	1809593	2.3211	0.0875
+species	Alistipes putredinis	28117	14417	2932663	30117	1097089	2.6731	0.0665
+species	Bacteroides uniformis	820	13792	1879250	4838	586057	3.2066	0.0637
+species	Bacteroides vulgatus	821	10751	1413116	4362	311218	4.5406	0.0496
+species	Parabacteroides merdae	46503	7340	951594	2482	735430	1.2939	0.0339
+species	Sutterella wadsworthensis	40545	6343	1596330	14272	1158257	1.3782	0.0293
+species	Bacteroides thetaiotaomicron	818	3426	362858	2157	220259	1.6474	0.0158
+species	Odoribacter splanchnicus	28118	3247	669619	2344	569701	1.1754	0.0150
+species	Alistipes shahii	328814	2870	402660	2542	311113	1.2943	0.0132
+species	Bacteroides fragilis	817	1031	121461	3176	41010	2.9617	0.0048
+species	[Eubacterium] rectale	39491	960	166730	2154	152988	1.0898	0.0044
+species	Parabacteroides distasonis	823	928	126354	244	75391	1.6760	0.0043
+species	Faecalibacterium prausnitzii	853	638	113218	2357	105085	1.0774	0.0029
+species	Oscillospiraceae bacterium VE202-24	1232459	531	93039	438	76485	1.2164	0.0025
+species	Alistipes obesi	1118061	468	64970	2639	38168	1.7022	0.0022
+species	Bacteroides sp. 1_1_6	469586	452	38882	112	14463	2.6884	0.0021
+species	Clostridium sp. GD3	1650661	444	67911	487	64334	1.0556	0.0020
+species	Lachnospiraceae bacterium 7_1_58FAA	658087	440	79645	1866	53674	1.4839	0.0020
+species	Bacteroides finegoldii	338188	425	81334	2971	11915	6.8262	0.0020
+species	Bacteroides caccae	47678	397	45907	140	7227	6.3522	0.0018
+species	Roseburia faecis	301302	371	61516	677	58575	1.0502	0.0017
+species	Alistipes finegoldii	214856	349	48947	281	38751	1.2631	0.0016
+species	Parabacteroides sp. 20_3	469591	315	37062	98	12292	3.0151	0.0015
+species	Ruminococcus faecis	592978	294	40439	538	38717	1.0445	0.0014
+species	Bacteroides intestinalis	329854	284	33903	231	5321	6.3715	0.0013
+species	Bacteroides sp. 3_1_40A	469593	270	23478	498	2209	10.6283	0.0012
+species	Tannerella sp. 6_1_58FAA_CT1	665949	260	29990	222	12867	2.3308	0.0012
+species	Bacteroides dorei	357276	251	27185	884	8546	3.1810	0.0012
+species	Bilophila sp. 4_1_30	693988	222	21303	160	19939	1.0684	0.0010
+species	Bacteroides sartorii	671267	209	22639	385	4022	5.6288	0.0010
+species	Alistipes sp. HGB5	908612	207	21871	118	17564	1.2452	0.0010
+species	Bacteroides sp. 2_2_4	469590	163	24895	156	4348	5.7256	0.0008
+species	Bacteroides cellulosilyticus	246787	141	18948	151	3686	5.1405	0.0007
+species	Clostridium sp. ATCC BAA-442	649724	132	20232	37	18144	1.1151	0.0006
+species	Bacteroides sp. 4_3_47FAA	457394	124	8835	41	1623	5.4436	0.0006
+species	Blautia wexlerae	418240	120	13096	120	12111	1.0813	0.0006
+species	Bacteroides coprophilus	387090	120	12210	507	3763	3.2448	0.0006
+species	Bacteroides sp. 9_1_42FAA	457395	118	12944	71	3641	3.5551	0.0005
+species	Alistipes senegalensis	1288121	116	8497	221	5330	1.5942	0.0005
+species	Bacteroides sp. 3_1_33FAA	457391	114	10940	200	1718	6.3679	0.0005
+species	Alistipes onderdonkii	328813	113	15955	119	11847	1.3468	0.0005
+species	Dorea longicatena	88431	110	16951	255	16369	1.0356	0.0005
+species	Holdemania filiformis	61171	108	19954	459	17773	1.1227	0.0005
+species	Coprobacter fastidiosus	1099853	105	8400	172	6730	1.2481	0.0005
+species	Bifidobacterium adolescentis	1680	103	15584	72	15481	1.0067	0.0005
+species	Odoribacter laneus	626933	97	4784	68	582	8.2199	0.0004
+species	Bacteroides salanitronis	376805	87	9980	510	1887	5.2888	0.0004
+species	Bacteroides faecichinchillae	871325	87	12263	407	3590	3.4159	0.0004
+species	Intestinimonas butyriciproducens	1297617	84	13706	480	12675	1.0813	0.0004
+species	Bacteroides faecis	674529	81	6801	358	4142	1.6420	0.0004
+species	Bilophila wadsworthia	35833	79	9651	240	9246	1.0438	0.0004
+species	Dielma fastidiosa	1034346	77	8284	129	7965	1.0401	0.0004
+species	Blautia obeum	40520	74	9970	86	9660	1.0321	0.0003
+species	Bacteroides stercoris	46506	73	6154	288	1280	4.8078	0.0003
+species	Clostridiales bacterium VE202-03	1232439	73	14880	151	11856	1.2551	0.0003
+species	Bacteroides nordii	291645	70	6795	17	1602	4.2416	0.0003
+species	[Clostridium] leptum	1535	67	13406	98	13339	1.0050	0.0003
+species	Bacteroides sp. 1_1_30	457387	64	3113	0	496	6.2762	0.0003
+species	Bacteroides pyogenes	310300	61	3931	150	1579	2.4896	0.0003
+species	Blautia sp. KLE 1732	1226324	58	6707	125	5746	1.1672	0.0003
+species	Lachnospiraceae bacterium 3_1_46FAA	665950	57	7887	5	6918	1.1401	0.0003
+species	Prevotella copri	165179	53	7538	383	1909	3.9487	0.0002
+species	[Clostridium] bolteae	208479	52	6142	8	5676	1.0821	0.0002
+species	Bacteroides gallinarum	376806	51	6227	232	1439	4.3273	0.0002
+species	Prevotella bergensis	242750	51	5262	98	943	5.5801	0.0002
+species	Bacteroides fluxus	626930	51	4044	48	1369	2.9540	0.0002
+species	Bacteroides sp. 3_1_23	457390	50	4502	51	1149	3.9182	0.0002
+species	Alistipes timonensis	1465754	49	4163	171	1896	2.1957	0.0002
+species	Bacteroides sp. D20	585543	49	3190	40	1135	2.8106	0.0002
+species	Alistipes inops	1501391	48	3262	104	1235	2.6413	0.0002
+species	Bacteroides oleiciplenus	626931	44	4135	23	730	5.6644	0.0002
+species	[Clostridium] clostridioforme	1531	44	6435	199	6137	1.0486	0.0002
+species	Bacteroides sp. 2_1_33B	469589	44	6279	105	2188	2.8697	0.0002
+species	Barnesiella viscericola	397865	42	2026	32	685	2.9577	0.0002
+species	Clostridia bacterium UC5.1-1D1	1697794	42	6048	91	5964	1.0141	0.0002
+species	Flavonifractor plautii	292800	40	5038	83	4968	1.0141	0.0002
+species	[Ruminococcus] gnavus	33038	37	4571	82	4130	1.1068	0.0002
+species	Erysipelotrichaceae bacterium 3_1_53	658659	36	4818	60	4568	1.0547	0.0002
+species	Collinsella sp. 4_8_47FAA	742722	36	3180	79	2655	1.1977	0.0002
+species	Ruminococcaceae bacterium D16	552398	36	4360	151	3893	1.1200	0.0002
+species	Pseudoflavonifractor capillosus	106588	35	4065	112	2973	1.3673	0.0002
+species	Paraprevotella clara	454154	34	1955	59	470	4.1596	0.0002
+species	Blautia sp. GD9	1737424	32	3592	38	3379	1.0630	0.0001
+species	Clostridia bacterium UC5.1-1D10	1697787	32	5485	68	5453	1.0059	0.0001
+species	Collinsella aerofaciens	74426	32	3696	95	2674	1.3822	0.0001
+species	Ruminococcus sp. 5_1_39BFAA	457412	31	3785	10	3754	1.0083	0.0001
+species	Butyricicoccus pullicaecorum	501571	30	4764	197	4445	1.0718	0.0001
+species	Bacteroides barnesiae	376804	29	1940	74	766	2.5326	0.0001
+species	Bacteroides sp. 3_1_19	469592	28	5627	42	3984	1.4124	0.0001
+species	Bacteroides acidifaciens	85831	27	2901	69	778	3.7288	0.0001
+species	Bacteroides eggerthii	28111	27	1142	6	347	3.2911	0.0001
+species	Bacteroides sp. 4_1_36	457393	27	1562	16	527	2.9639	0.0001
+species	[Ruminococcus] torques	33039	27	4296	6	3625	1.1851	0.0001
+species	Intestinimonas sp. GD2	1673721	25	3430	13	3352	1.0233	0.0001
+species	Parabacteroides sp. D13	563193	25	1785	11	587	3.0409	0.0001
+species	Roseburia hominis	301301	25	3475	33	3450	1.0072	0.0001
+species	Bacteroides salyersiae	291644	24	2603	31	1266	2.0561	0.0001
+species	Alistipes sp. AL-1	1499682	24	1715	93	1070	1.6028	0.0001
+species	Bacteroides xylanisolvens	371601	24	1535	44	554	2.7708	0.0001
+species	Clostridium sp. M62/1	411486	23	2718	139	2640	1.0295	0.0001
+species	Bacteroides sp. D22	585544	23	1078	19	133	8.1053	0.0001
+species	Bacteroides sp. D2	556259	23	1532	25	546	2.8059	0.0001
+species	Firmicutes bacterium ASF500	1378168	21	1423	80	1219	1.1674	0.0001
+species	Parabacteroides goldsteinii	328812	21	747	1	145	5.1517	0.0001
+species	Subdoligranulum sp. 4_3_54A2FAA	665956	21	2762	90	2607	1.0595	0.0001
+species	Bacteroides coprocola	310298	20	1656	6	766	2.1619	0.0001
+species	Anaerotruncus colihominis	169435	20	3542	159	3300	1.0733	0.0001
+species	Hungatella hathewayi	154046	19	1989	41	1899	1.0474	0.0001
+species	Candidatus Bacteroides timonensis	1470345	18	1212	83	204	5.9412	0.0001
+species	Collinsella tanakaei	626935	18	3937	122	3919	1.0046	0.0001
+species	Clostridia bacterium UC5.1-2F7	1697792	17	2758	16	2741	1.0062	0.0001
+species	Ruminococcaceae bacterium 585-1	1550024	17	2569	46	2314	1.1102	0.0001
+species	[Bacteroides] pectinophilus	384638	17	3334	106	3094	1.0776	0.0001
+species	Clostridium sp. KLE 1755	1226325	16	1971	9	1955	1.0082	0.0001
+species	Sanguibacteroides justesenii	1547597	16	1076	55	276	3.8986	0.0001
+species	Phascolarctobacterium succinatutens	626940	16	926	34	870	1.0644	0.0001
+species	[Eubacterium] hallii	39488	16	2006	95	1865	1.0756	0.0001
+species	Oscillibacter sp. ER4	1519439	15	1591	110	1544	1.0304	0.0001
+species	Tyzzerella nexilis	29361	15	1566	54	1432	1.0936	0.0001
+species	Oscillibacter sp. 1-3	1235797	15	933	42	767	1.2164	0.0001
+species	Escherichia coli	562	15	2246	23	1948	1.1530	0.0001
+species	Bacteroides sp. 3_1_13	457389	15	1020	26	386	2.6425	0.0001
+species	Blautia producta	33035	14	2504	23	2490	1.0056	0.0001
+species	Butyricimonas synergistica	544644	14	2946	175	1515	1.9446	0.0001
+species	Bacteroides sp. 14(A)	1163670	14	1953	138	1164	1.6778	0.0001
+species	Coprobacter secundus	1501392	13	1299	56	760	1.7092	0.0001
+species	Butyricimonas virosa	544645	13	1177	4	395	2.9797	0.0001
+species	Clostridia bacterium UC5.1-1E11	1697793	12	1636	23	1624	1.0074	0.0001
+species	Prevotella bivia	28125	12	542	8	112	4.8393	0.0001
+species	Peptoclostridium difficile	1496	12	1618	43	1606	1.0075	0.0001
+species	Bacteroides plebeius	310297	12	1752	127	453	3.8675	0.0001
+species	Ruminococcus sp. JC304	1095771	10	805	11	763	1.0550	0.0000
+species	[Clostridium] symbiosum	1512	10	587	7	541	1.0850	0.0000
+species	Alistipes indistinctus	626932	10	434	10	348	1.2471	0.0000
+species	Candidatus Alistipes marseilloanorexicus	1470347	10	735	12	659	1.1153	0.0000
+species	Bacteroides helcogenes	290053	10	751	51	171	4.3918	0.0000
+species	Roseburia inulinivorans	360807	10	910	8	792	1.1490	0.0000
+species	Parabacteroides johnsonii	387661	9	979	2	756	1.2950	0.0000
+species	Ruminococcus lactaris	46228	9	867	11	812	1.0677	0.0000
+species	Bifidobacterium longum	216816	9	649	2	617	1.0519	0.0000
+species	Prevotella sp. 109	1676614	9	834	24	328	2.5427	0.0000
+species	Prevotella dentalis	52227	9	523	30	318	1.6447	0.0000
+species	Eubacterium sp. 3_1_31	457402	9	811	0	802	1.0112	0.0000
+species	Bacteroides reticulotermitis	1133319	8	444	10	196	2.2653	0.0000
+species	Roseburia intestinalis	166486	8	1025	17	831	1.2335	0.0000
+species	Dorea formicigenerans	39486	8	924	15	916	1.0087	0.0000
+species	Parabacteroides gordonii	574930	8	802	17	402	1.9950	0.0000
+species	Eubacterium ramulus	39490	8	1034	1	1026	1.0078	0.0000
+species	Catonella morbi	43997	8	1182	39	1045	1.1311	0.0000
+species	Ruminococcaceae bacterium cv2	1627893	7	1388	10	1381	1.0051	0.0000
+species	Bacteroides clarus	626929	7	1594	105	509	3.1316	0.0000
+species	bacterium LF-3	1504823	7	319	1	280	1.1393	0.0000
+species	Eubacterium desmolans	39484	7	537	14	530	1.0132	0.0000
+species	Akkermansia muciniphila	239935	7	991	54	984	1.0071	0.0000
+species	Lactococcus lactis	1358	7	784	7	777	1.0090	0.0000
+species	Bacteroidaceae bacterium MS4	1347393	6	249	8	76	3.2763	0.0000
+species	Oscillibacter ruminantium	1263547	6	302	8	296	1.0203	0.0000
+species	Subdoligranulum variabile	214851	6	370	12	309	1.1974	0.0000
+species	Parabacteroides sp. D26	658662	6	228	1	112	2.0357	0.0000
+species	Rikenella microfusus	28139	6	882	37	289	3.0519	0.0000
+species	Prevotella intermedia	28131	6	378	30	186	2.0323	0.0000
+species	Ruminococcaceae bacterium AM2	1650663	6	371	5	365	1.0164	0.0000
+species	Lachnospiraceae bacterium 3-1	397288	5	169	0	131	1.2901	0.0000
+species	Erysipelotrichaceae bacterium 6_1_45	469614	5	590	11	585	1.0085	0.0000
+species	Bacteroides graminisolvens	477666	5	247	7	209	1.1818	0.0000
+species	Erysipelotrichaceae bacterium 21_3	658657	5	444	15	375	1.1840	0.0000
+species	Porphyromonas bennonis	501496	5	708	30	703	1.0071	0.0000
+species	Oscillibacter valericigenes	351091	5	248	9	243	1.0206	0.0000
+species	Bacteroides sp. 2_1_56FAA	665938	5	571	20	180	3.1722	0.0000
+species	Peptostreptococcus stomatis	341694	5	1042	18	1037	1.0048	0.0000
+species	Clostridiales bacterium VE202-21	1232453	5	413	14	408	1.0123	0.0000
+species	Porphyromonas uenonis	281920	5	910	57	905	1.0055	0.0000
+species	Enterococcus cecorum	44008	5	542	29	389	1.3933	0.0000
+species	Clostridia bacterium UC5.1-2H11	1697795	4	293	12	289	1.0138	0.0000
+species	Marvinbryantia formatexigens	168384	4	213	5	209	1.0191	0.0000
+species	Dorea sp. 5-2	1235798	4	270	10	175	1.5429	0.0000
+species	Blautia schinkii	180164	4	159	1	155	1.0258	0.0000
+species	Clostridiales bacterium 1_7_47FAA	457421	4	545	5	541	1.0074	0.0000
+species	Paraprevotella xylaniphila	454155	4	457	19	328	1.3933	0.0000
+species	Oscillibacter sp. KLE 1745	1226323	4	204	0	200	1.0200	0.0000
+species	Eubacterium ventriosum	39496	4	320	7	316	1.0127	0.0000
+species	Dorea sp. AGR2135	1280669	4	273	5	269	1.0149	0.0000
+species	[Eubacterium] eligens	39485	4	302	4	298	1.0134	0.0000
+species	Streptococcus thermophilus	1308	4	313	2	309	1.0129	0.0000
+species	Ruminococcaceae bacterium mt9	1673717	3	120	3	117	1.0256	0.0000
+species	Oscillibacter sp. KLE 1728	1226322	3	143	2	140	1.0214	0.0000
+species	Anaerostipes hadrus	649756	3	304	7	301	1.0100	0.0000
+species	Salmonella enterica	28901	3	528	7	347	1.5216	0.0000
+species	Ruminococcus champanellensis	1161942	3	276	6	273	1.0110	0.0000
+species	Clostridiales bacterium VE202-27	1232457	3	165	0	162	1.0185	0.0000
+species	Ruminococcus gauvreauii	438033	3	105	1	102	1.0294	0.0000
+species	Lachnospira multipara	28051	3	174	7	128	1.3594	0.0000
+species	Clostridiales bacterium NK3B98	877414	3	98	1	95	1.0316	0.0000
+species	Eubacterium sp. 14-2	1235790	3	188	14	185	1.0162	0.0000
+species	Porphyromonas asaccharolytica	28123	3	223	12	220	1.0136	0.0000
+species	Eggerthella lenta	84112	3	522	1	432	1.2083	0.0000
+species	Streptococcus parasanguinis	1318	3	122	1	119	1.0252	0.0000
+species	Coprobacillus sp. 8_1_38FAA	450746	3	125	2	122	1.0246	0.0000
+species	Ruminococcaceae bacterium 668	1550025	3	319	7	316	1.0095	0.0000
+species	Sharpea azabuensis	322505	3	99	0	64	1.5469	0.0000

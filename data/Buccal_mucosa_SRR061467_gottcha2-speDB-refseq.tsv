@@ -1,0 +1,544 @@
+LEVEL	NAME	TAXID	READ_COUNT	TOTAL_BP_MAPPED	TOTAL_BP_MISMATCH	LINEAR_LENGTH	LINEAR_DOC	REL_ABUNDANCE
+superkingdom	Bacteria	2	106877	7389414	85534	4951205	1.4924	1.0000
+phylum	Actinobacteria	201174	70819	5045544	54711	3445499	1.4644	0.6626
+phylum	Firmicutes	1239	21282	1353423	16922	835559	1.6198	0.1991
+phylum	Bacteroidetes	976	7897	558831	7169	380577	1.4684	0.0739
+phylum	Proteobacteria	1224	5389	334152	5025	224245	1.4901	0.0504
+phylum	Spirochaetes	203691	887	62533	1276	42987	1.4547	0.0083
+phylum	Fusobacteria	32066	531	30040	268	18960	1.5844	0.0050
+phylum	Candidatus Saccharibacteria	95818	63	4438	162	2972	1.4933	0.0006
+phylum	Tenericutes	544448	5	238	1	195	1.2205	0.0000
+class	Actinobacteria	1760	70650	5035826	54491	3438535	1.4645	0.6645
+class	Bacilli	91061	15737	979458	11693	599963	1.6325	0.1480
+class	Bacteroidia	200643	6999	495107	6094	339165	1.4598	0.0658
+class	Negativicutes	909932	2825	183048	2551	114399	1.6001	0.0266
+class	Betaproteobacteria	28216	2586	161784	2128	112650	1.4362	0.0243
+class	Clostridia	186801	2431	170846	2413	109123	1.5656	0.0229
+class	Gammaproteobacteria	1236	1936	114680	1622	70174	1.6342	0.0182
+class	Spirochaetia	203692	887	62533	1276	42987	1.4547	0.0083
+class	Epsilonproteobacteria	29547	755	51196	1186	36938	1.3860	0.0071
+class	Fusobacteriia	203490	531	30040	268	18960	1.5844	0.0050
+class	Flavobacteriia	117743	412	27272	375	17721	1.5390	0.0039
+class	Erysipelotrichia	526524	187	13886	200	8384	1.6562	0.0018
+class	Coriobacteriia	84998	169	9718	220	6964	1.3955	0.0016
+class	Alphaproteobacteria	28211	109	6393	89	4419	1.4467	0.0010
+class	Tissierellia	1737404	102	6185	65	3690	1.6762	0.0010
+class	Mollicutes	31969	5	238	1	195	1.2205	0.0000
+class	Deltaproteobacteria	28221	3	99	0	64	1.5469	0.0000
+order	Micrococcales	85006	45185	3343414	35148	2320767	1.4407	0.4251
+order	Corynebacteriales	85007	13334	979753	11742	640117	1.5306	0.1254
+order	Actinomycetales	2037	11961	701949	7468	468721	1.4976	0.1125
+order	Lactobacillales	186826	11890	740369	9045	464727	1.5931	0.1119
+order	Bacteroidales	171549	6999	495107	6094	339165	1.4598	0.0658
+order	Bacillales	1385	3847	239089	2648	135236	1.7679	0.0362
+order	Clostridiales	186802	2431	170846	2413	109123	1.5656	0.0229
+order	Burkholderiales	80840	2114	132947	1754	92390	1.4390	0.0199
+order	Veillonellales	1843489	2017	131499	1898	78355	1.6782	0.0190
+order	Pasteurellales	135625	1722	101764	1410	61689	1.6496	0.0162
+order	Spirochaetales	136	887	62533	1276	42987	1.4547	0.0083
+order	Selenomonadales	909929	808	51549	653	36044	1.4302	0.0076
+order	Campylobacterales	213849	755	51196	1186	36938	1.3860	0.0071
+order	Fusobacteriales	203491	531	30040	268	18960	1.5844	0.0050
+order	Flavobacteriales	200644	412	27272	375	17721	1.5390	0.0039
+order	Neisseriales	206351	367	22315	306	15414	1.4477	0.0035
+order	Erysipelotrichales	526525	187	13886	200	8384	1.6562	0.0018
+order	Propionibacteriales	85009	164	10509	132	8764	1.1991	0.0015
+order	Coriobacteriales	84999	158	9063	214	6524	1.3892	0.0015
+order	Pseudomonadales	72274	112	7261	127	4770	1.5222	0.0011
+order	Tissierellales	1737405	102	6185	65	3690	1.6762	0.0010
+order	Rhodocyclales	206389	100	6193	61	4558	1.3587	0.0009
+order	Rhodobacterales	204455	86	5442	85	3850	1.4135	0.0008
+order	Cardiobacteriales	135615	54	3254	53	2076	1.5674	0.0005
+order	Enterobacteriales	91347	22	1112	26	734	1.5150	0.0002
+order	Sphingomonadales	204457	18	654	4	351	1.8632	0.0002
+order	Xanthomonadales	135614	14	840	4	528	1.5909	0.0001
+order	Eggerthellales	1643822	11	655	6	440	1.4886	0.0001
+order	Mycoplasmatales	2085	4	208	1	166	1.2530	0.0000
+order	Oceanospirillales	135619	4	124	0	60	2.0667	0.0000
+order	Hydrogenophilales	119069	3	129	2	90	1.4333	0.0000
+order	Vibrionales	135623	3	101	1	98	1.0306	0.0000
+family	Micrococcaceae	1268	44952	3329397	34953	2311571	1.4403	0.4384
+family	Corynebacteriaceae	1653	13321	979273	11740	639855	1.5305	0.1299
+family	Actinomycetaceae	2049	11961	701949	7468	468721	1.4976	0.1166
+family	Streptococcaceae	1300	11081	685911	8183	429555	1.5968	0.1081
+family	Prevotellaceae	171552	6696	473178	5795	323079	1.4646	0.0653
+family	Lachnospiraceae	186803	2115	148006	2217	96266	1.5375	0.0206
+family	Veillonellaceae	31977	2017	131499	1898	78355	1.6782	0.0197
+family	Pasteurellaceae	712	1722	101764	1410	61689	1.6496	0.0168
+family	Burkholderiaceae	119060	1541	96606	1251	67397	1.4334	0.0150
+family	Spirochaetaceae	137	887	62533	1276	42987	1.4547	0.0087
+family	Selenomonadaceae	1843491	808	51549	653	36044	1.4302	0.0079
+family	Campylobacteraceae	72294	754	51161	1186	36904	1.3863	0.0074
+family	Comamonadaceae	80864	569	36122	495	24778	1.4578	0.0055
+family	Carnobacteriaceae	186828	430	26659	324	17363	1.5354	0.0042
+family	Flavobacteriaceae	49546	412	27272	375	17721	1.5390	0.0040
+family	Leptotrichiaceae	1129771	376	21252	195	13915	1.5273	0.0037
+family	Neisseriaceae	481	362	22031	303	15135	1.4556	0.0035
+family	Aerococcaceae	186827	299	22612	487	14240	1.5879	0.0029
+family	Porphyromonadaceae	171551	287	20764	283	15351	1.3526	0.0028
+family	Erysipelotrichaceae	128827	187	13886	200	8384	1.6562	0.0018
+family	Eubacteriaceae	186806	177	12747	97	7164	1.7793	0.0017
+family	Propionibacteriaceae	31957	163	10449	129	8705	1.2003	0.0016
+family	Fusobacteriaceae	203492	155	8788	73	5045	1.7419	0.0015
+family	Atopobiaceae	1643824	155	8958	213	6422	1.3949	0.0015
+family	Sanguibacteraceae	145360	145	8947	147	5792	1.5447	0.0014
+family	Peptoniphilaceae	1570339	102	6185	65	3690	1.6762	0.0010
+family	Rhodocyclaceae	75787	100	6193	61	4558	1.3587	0.0010
+family	Rhodobacteraceae	31989	85	5412	85	3821	1.4164	0.0008
+family	Peptostreptococcaceae	186804	82	6273	58	3788	1.6560	0.0008
+family	Promicromonosporaceae	85017	80	4558	39	3076	1.4818	0.0008
+family	Listeriaceae	186820	66	4597	12	3012	1.5262	0.0006
+family	Lactobacillaceae	33958	64	4311	47	2996	1.4389	0.0006
+family	Pseudomonadaceae	135621	59	3555	59	2340	1.5192	0.0006
+family	Cardiobacteriaceae	868	54	3254	53	2076	1.5674	0.0005
+family	Moraxellaceae	468	53	3706	68	2430	1.5251	0.0005
+family	Staphylococcaceae	90964	35	1635	21	1012	1.6156	0.0003
+family	Clostridiales Family XIII. Incertae Sedis	543314	35	2769	33	1223	2.2641	0.0003
+family	Enterobacteriaceae	543	22	1112	26	734	1.5150	0.0002
+family	Xanthomonadaceae	32033	14	840	4	528	1.5909	0.0001
+family	Ruminococcaceae	541000	13	702	6	464	1.5129	0.0001
+family	Eggerthellaceae	1643826	11	655	6	440	1.4886	0.0001
+family	Leuconostocaceae	81850	11	717	4	480	1.4937	0.0001
+family	Bacteroidaceae	815	9	633	11	440	1.4386	0.0001
+family	Sphingomonadaceae	41297	9	347	0	242	1.4339	0.0001
+family	Erythrobacteraceae	335929	9	307	4	109	2.8165	0.0001
+family	Rikenellaceae	171550	7	532	5	295	1.8034	0.0001
+family	Mycobacteriaceae	1762	7	235	0	135	1.7407	0.0001
+family	Chromobacteriaceae	1499392	5	284	3	279	1.0179	0.0000
+family	Clostridiaceae	31979	5	225	2	188	1.1968	0.0000
+family	Enterococcaceae	81852	5	159	0	93	1.7097	0.0000
+family	Williamsiaceae	182102	4	137	0	71	1.9296	0.0000
+family	Mycoplasmataceae	2092	4	208	1	166	1.2530	0.0000
+family	Dermacoccaceae	145357	4	209	4	152	1.3750	0.0000
+family	Hydrogenophilaceae	206349	3	129	2	90	1.4333	0.0000
+family	Vibrionaceae	641	3	101	1	98	1.0306	0.0000
+family	Alcaligenaceae	506	3	174	8	171	1.0175	0.0000
+family	Coriobacteriaceae	84107	3	105	1	102	1.0294	0.0000
+genus	Rothia	32207	44951	3329316	34945	2311491	1.4403	0.4235
+genus	Corynebacterium	1716	13321	979273	11740	639855	1.5305	0.1255
+genus	Actinomyces	1654	11622	680476	7303	453711	1.4998	0.1095
+genus	Streptococcus	1301	11081	685911	8183	429555	1.5968	0.1044
+genus	Prevotella	838	6463	456304	5404	312910	1.4583	0.0609
+genus	Gemella	1378	3703	231379	2615	131147	1.7643	0.0349
+genus	Veillonella	29465	1625	101856	1473	60859	1.6736	0.0153
+genus	Lautropia	47670	1534	96271	1249	67153	1.4336	0.0145
+genus	Haemophilus	724	1506	86667	1208	52364	1.6551	0.0142
+genus	Oribacterium	265975	946	67849	986	44130	1.5375	0.0089
+genus	Treponema	157	887	62533	1276	42987	1.4547	0.0084
+genus	Campylobacter	194	754	51161	1186	36904	1.3863	0.0071
+genus	Stomatobaculum	1213720	687	49460	942	32960	1.5006	0.0065
+genus	Selenomonas	970	658	42235	502	29645	1.4247	0.0062
+genus	Lachnoanaerobaculum	1164882	410	25999	212	15912	1.6339	0.0039
+genus	Carnobacterium	2747	407	25322	300	16485	1.5361	0.0038
+genus	Ottowia	219181	393	25648	314	17261	1.4859	0.0037
+genus	Capnocytophaga	1016	392	26191	365	16948	1.5454	0.0037
+genus	Leptotrichia	32067	376	21252	195	13915	1.5273	0.0035
+genus	Actinobaculum	76833	314	20051	135	13848	1.4479	0.0030
+genus	Abiotrophia	46123	298	22573	487	14202	1.5894	0.0028
+genus	Alloprevotella	1283313	233	16874	391	10169	1.6594	0.0022
+genus	Dialister	39948	225	16911	206	9788	1.7277	0.0021
+genus	Aggregatibacter	416916	210	14884	201	9118	1.6324	0.0020
+genus	Porphyromonas	836	210	15001	266	10881	1.3786	0.0020
+genus	Neisseria	482	206	11741	134	7890	1.4881	0.0019
+genus	Eubacterium	1730	177	12747	97	7164	1.7793	0.0017
+genus	Megasphaera	906	167	12732	219	7708	1.6518	0.0016
+genus	Propionibacterium	1743	161	10384	129	8642	1.2016	0.0015
+genus	Fusobacterium	848	155	8788	73	5045	1.7419	0.0015
+genus	Centipeda	82202	146	9133	149	6252	1.4608	0.0014
+genus	Sanguibacter	60919	145	8947	147	5792	1.5447	0.0014
+genus	Solobacterium	123375	138	10373	182	6385	1.6246	0.0013
+genus	Acidovorax	12916	135	8066	135	5948	1.3561	0.0013
+genus	Atopobium	1380	131	7863	183	5698	1.3800	0.0012
+genus	Kingella	32257	124	8247	132	5690	1.4494	0.0012
+genus	Dechloromonas	73029	91	5817	57	4389	1.3254	0.0009
+genus	Paracoccus	265	84	5312	84	3722	1.4272	0.0008
+genus	Parvimonas	543311	70	4550	57	2776	1.6390	0.0007
+genus	Tannerella	195950	69	5242	15	3957	1.3247	0.0007
+genus	Brochothrix	2755	66	4597	12	3012	1.5262	0.0006
+genus	Lactobacillus	1578	64	4311	47	2996	1.4389	0.0006
+genus	Pseudomonas	286	59	3555	59	2340	1.5192	0.0006
+genus	Cardiobacterium	2717	54	3254	53	2076	1.5674	0.0005
+genus	Bulleidia	118747	49	3513	18	1999	1.7574	0.0005
+genus	Psychrobacter	497	48	3381	63	2110	1.6024	0.0005
+genus	Isoptericola	254250	45	2620	34	1652	1.5860	0.0004
+genus	Filifactor	44259	44	3575	34	2140	1.6706	0.0004
+genus	Peptostreptococcus	1257	36	2568	19	1520	1.6895	0.0003
+genus	Staphylococcus	1279	35	1635	21	1012	1.6156	0.0003
+genus	Xylanimonas	186188	35	1938	5	1424	1.3610	0.0003
+genus	Catonella	43996	34	2237	46	1856	1.2053	0.0003
+genus	Peptoniphilus	162289	29	1469	6	751	1.9561	0.0003
+genus	Trueperella	1069494	25	1422	30	1162	1.2238	0.0002
+genus	Olsenella	133925	24	1095	30	724	1.5124	0.0002
+genus	Granulicatella	117563	23	1337	24	878	1.5228	0.0002
+genus	Eikenella	538	22	1455	29	1022	1.4237	0.0002
+genus	Comamonas	283	22	1336	25	793	1.6847	0.0002
+genus	Stenotrophomonas	40323	14	840	4	528	1.5909	0.0001
+genus	Serratia	613	10	516	21	366	1.4098	0.0001
+genus	Johnsonella	43994	10	660	12	307	2.1498	0.0001
+genus	Leuconostoc	1243	10	686	4	450	1.5244	0.0001
+genus	Chryseobacterium	59732	10	478	5	406	1.1773	0.0001
+genus	Bacteroides	816	9	633	11	440	1.4386	0.0001
+genus	Slackia	84108	9	508	1	295	1.7220	0.0001
+genus	Porphyrobacter	1111	9	307	4	109	2.8165	0.0001
+genus	Mogibacterium	86331	9	651	0	172	3.7849	0.0001
+genus	Elizabethkingia	308865	7	409	0	222	1.8423	0.0001
+genus	Alistipes	239759	7	532	5	295	1.8034	0.0001
+genus	Faecalibacterium	216851	7	486	5	322	1.5093	0.0001
+genus	Mycobacterium	1763	7	235	0	135	1.7407	0.0001
+genus	Escherichia	561	7	444	5	279	1.5914	0.0001
+genus	Simonsiella	71	6	357	4	351	1.0171	0.0001
+genus	Alicycliphilus	201096	6	375	14	305	1.2295	0.0001
+genus	Ruminococcus	1263	6	216	1	142	1.5211	0.0001
+genus	Dysgonomonas	156973	5	377	1	372	1.0134	0.0000
+genus	Sphingopyxis	165697	5	172	0	100	1.7200	0.0000
+genus	Brachymonas	28219	5	263	3	121	2.1736	0.0000
+genus	Acinetobacter	469	5	325	5	320	1.0156	0.0000
+genus	Enterococcus	1350	5	159	0	93	1.7097	0.0000
+genus	Williamsia	85043	4	137	0	71	1.9296	0.0000
+genus	Pandoraea	93217	4	171	0	83	2.0602	0.0000
+genus	Mycoplasma	2093	4	208	1	166	1.2530	0.0000
+genus	Morococcus	212742	4	231	4	182	1.2692	0.0000
+genus	Mitsuokella	52225	4	181	2	147	1.2313	0.0000
+genus	Pasteurella	745	4	143	1	139	1.0288	0.0000
+genus	Delftia	80865	4	259	3	179	1.4469	0.0000
+genus	Clostridium	1485	4	138	1	102	1.3529	0.0000
+genus	Kytococcus	57499	4	209	4	152	1.3750	0.0000
+genus	Tepidiphilus	203470	3	129	2	90	1.4333	0.0000
+genus	Thauera	33057	3	136	2	81	1.6790	0.0000
+genus	Sphingobium	165695	3	97	0	65	1.4923	0.0000
+genus	Gulbenkiania	397456	3	218	3	215	1.0140	0.0000
+genus	Vibrio	662	3	101	1	98	1.0306	0.0000
+genus	Diaphorobacter	238749	3	139	1	136	1.0221	0.0000
+species	Rothia mucilaginosa	43675	24355	1765575	16358	1250825	1.4115	0.2286
+species	Rothia dentocariosa	2047	20466	1556036	18508	1055503	1.4742	0.1921
+species	Corynebacterium matruchotii	43768	12811	941588	11208	614084	1.5333	0.1202
+species	Gemella haemolysans	1379	3338	207770	2345	115973	1.7915	0.0313
+species	Streptococcus mutans	1309	2804	203626	1404	158401	1.2855	0.0263
+species	Streptococcus mitis	28037	2523	152188	2252	70540	2.1575	0.0237
+species	Streptococcus parasanguinis	1318	1993	118595	1665	79749	1.4871	0.0187
+species	Actinomyces oris	544580	1861	106415	1368	69260	1.5365	0.0175
+species	Actinomyces dentalis	272548	1789	100193	853	66844	1.4989	0.0168
+species	Actinomyces viscosus	1656	1608	92612	816	48824	1.8969	0.0151
+species	Lautropia mirabilis	47671	1534	96271	1249	67153	1.4336	0.0144
+species	Actinomyces sp. oral taxon 170	712117	1280	74778	378	52007	1.4378	0.0120
+species	Haemophilus parainfluenzae	729	1233	68777	960	40961	1.6791	0.0116
+species	Actinomyces sp. oral taxon 448	712124	1024	60669	346	43669	1.3893	0.0096
+species	Prevotella nigrescens	28133	947	64807	442	47525	1.3636	0.0089
+species	Prevotella histicola	470565	913	69635	680	47375	1.4699	0.0086
+species	Veillonella sp. oral taxon 158	671228	721	47264	706	26899	1.7571	0.0068
+species	Prevotella oris	28135	711	53984	538	40020	1.3489	0.0067
+species	Stomatobaculum longum	796942	687	49460	942	32960	1.5006	0.0064
+species	Streptococcus pseudopneumoniae	257758	617	33887	422	17067	1.9855	0.0058
+species	Actinomyces graevenitzii	55565	609	43880	603	32365	1.3558	0.0057
+species	Veillonella dispar	39778	589	36458	530	22587	1.6141	0.0055
+species	Treponema socranskii	53419	565	41432	919	29283	1.4149	0.0053
+species	Corynebacterium durum	61592	490	36581	514	24953	1.4660	0.0046
+species	Bacteroidetes oral taxon 274	652708	485	36407	699	23647	1.5396	0.0046
+species	Prevotella salivae	228604	474	34831	485	23268	1.4969	0.0044
+species	Oribacterium sp. oral taxon 078	652706	449	32838	386	21683	1.5145	0.0042
+species	Actinomyces sp. ICM47	936548	442	27921	582	19632	1.4222	0.0041
+species	Oribacterium sinus	237576	437	31224	555	20081	1.5549	0.0041
+species	Streptococcus sanguinis	1305	435	25560	274	17909	1.4272	0.0041
+species	Actinomyces gerencseriae	52769	425	25254	264	17598	1.4350	0.0040
+species	Streptococcus thermophilus	1308	411	22826	413	12956	1.7618	0.0039
+species	Ottowia sp. oral taxon 894	1658672	393	25648	314	17261	1.4859	0.0037
+species	Lachnoanaerobaculum saburreum	467210	389	24694	194	15071	1.6385	0.0037
+species	Actinomyces massiliensis	461393	385	23371	146	17823	1.3113	0.0036
+species	Actinomyces sp. oral taxon 171	706438	373	20648	350	14016	1.4732	0.0035
+species	Prevotella oulorum	28136	372	25492	399	17380	1.4667	0.0035
+species	Prevotella maculosa	439703	361	27888	368	19008	1.4672	0.0034
+species	Streptococcus pneumoniae	1313	360	20361	271	11947	1.7043	0.0034
+species	Campylobacter gracilis	824	360	26296	683	19943	1.3186	0.0034
+species	Streptococcus vestibularis	1343	336	18929	112	8580	2.2062	0.0032
+species	Prevotella pleuritidis	407975	328	23707	179	15714	1.5087	0.0031
+species	Prevotella sp. C561	563031	326	23502	363	13366	1.7583	0.0031
+species	Actinomyces meyeri	52773	317	18682	105	12802	1.4593	0.0030
+species	Actinobaculum sp. oral taxon 183	712888	314	20051	135	13848	1.4479	0.0029
+species	Campylobacter concisus	199	308	19031	394	12856	1.4803	0.0029
+species	Actinomyces sp. oral taxon 175	712119	307	16196	303	9503	1.7043	0.0029
+species	Gemella sanguinis	84135	301	19634	211	12586	1.5600	0.0028
+species	Abiotrophia defectiva	46125	298	22573	487	14202	1.5894	0.0028
+species	Actinomyces sp. oral taxon 414	712122	292	16851	322	12037	1.3999	0.0027
+species	Carnobacterium maltaromaticum	2751	292	17420	217	10474	1.6632	0.0027
+species	Prevotella intermedia	28131	290	17919	289	12663	1.4151	0.0027
+species	Prevotella sp. oral taxon 317	652721	263	15812	226	9374	1.6868	0.0025
+species	Streptococcus salivarius	1304	257	15104	266	8109	1.8626	0.0024
+species	Selenomonas noxia	135083	257	17049	165	12867	1.3250	0.0024
+species	Leptotrichia wadei	157687	252	13964	127	9678	1.4429	0.0024
+species	Dialister invisus	218538	224	16875	206	9753	1.7302	0.0021
+species	Prevotella conceptionensis	340486	216	12288	187	8168	1.5044	0.0020
+species	Prevotella nanceiensis	425941	185	12118	210	7966	1.5212	0.0017
+species	Actinomyces johnsonii	544581	182	11076	191	7460	1.4847	0.0017
+species	Eubacterium brachy	35517	177	12747	97	7164	1.7793	0.0017
+species	Prevotella baroniae	305719	175	12875	81	10350	1.2440	0.0016
+species	Megasphaera micronuciformis	187326	165	12563	208	7541	1.6660	0.0015
+species	Veillonella parvula	29466	154	8740	118	5469	1.5981	0.0014
+species	Selenomonas sp. CM52	936381	152	9002	75	6136	1.4671	0.0014
+species	Prevotella veroralis	28137	149	10128	117	7154	1.4157	0.0014
+species	Centipeda periodontii	82203	146	9133	149	6252	1.4608	0.0014
+species	Sanguibacter keddieii	60920	145	8947	147	5792	1.5447	0.0014
+species	Streptococcus sp. 263_SSPC	1579343	143	7943	162	4975	1.5966	0.0013
+species	Prevotella sp. oral taxon 306	712461	141	9401	158	5749	1.6352	0.0013
+species	Solobacterium moorei	102148	138	10373	182	6385	1.6246	0.0013
+species	Prevotella saccharolytica	633701	133	9986	149	7139	1.3988	0.0012
+species	Streptococcus sp. 343_SSPC	1579342	132	7444	99	4798	1.5515	0.0012
+species	Streptococcus agalactiae	1311	132	7533	76	4850	1.5532	0.0012
+species	Rothia aeria	172042	130	7705	79	5163	1.4923	0.0012
+species	Prevotella pallens	60133	130	8373	67	4607	1.8175	0.0012
+species	Porphyromonas endodontalis	28124	125	9701	177	6905	1.4049	0.0012
+species	Actinomyces naeslundii	1655	123	6675	97	4929	1.3542	0.0012
+species	Alloprevotella rava	671218	122	8836	217	5410	1.6333	0.0011
+species	Actinomyces odontolyticus	1660	119	7170	161	4618	1.5526	0.0011
+species	Kingella oralis	505	115	7578	116	5195	1.4587	0.0011
+species	Carnobacterium divergens	2748	115	7902	83	6011	1.3146	0.0011
+species	Haemophilus influenzae	727	114	7239	111	5016	1.4432	0.0011
+species	Streptococcus oralis	1303	113	6452	108	3904	1.6527	0.0011
+species	Haemophilus sputorum	1078480	111	8220	122	4881	1.6841	0.0010
+species	Aggregatibacter aphrophilus	732	110	8220	92	5474	1.5016	0.0010
+species	Prevotella denticola	28129	101	6722	67	5256	1.2789	0.0009
+species	Streptococcus infantis	68892	97	4768	74	2724	1.7504	0.0009
+species	Neisseria meningitidis	487	94	5160	41	3808	1.3550	0.0009
+species	Actinomyces israelii	1659	91	5159	79	3893	1.3252	0.0009
+species	Dechloromonas agitata	73030	91	5817	57	4389	1.3254	0.0009
+species	Aggregatibacter sp. oral taxon 458	712148	88	6109	107	3393	1.8005	0.0008
+species	Treponema vincentii	69710	88	5766	56	3599	1.6021	0.0008
+species	Treponema sp. OMZ 838	1539298	84	5540	131	3451	1.6053	0.0008
+species	Capnocytophaga gingivalis	1017	81	5681	85	3811	1.4907	0.0008
+species	Capnocytophaga sp. oral taxon 338	710239	76	5387	33	3071	1.7542	0.0007
+species	Capnocytophaga sp. oral taxon 863	1227265	76	5655	83	3421	1.6530	0.0007
+species	Streptococcus australis	113107	75	3616	43	2686	1.3462	0.0007
+species	Propionibacterium propionicum	1750	73	4611	101	3600	1.2808	0.0007
+species	Selenomonas sputigena	69823	71	4618	51	3321	1.3905	0.0007
+species	Tannerella forsythia	28112	69	5242	15	3957	1.3247	0.0006
+species	Parvimonas micra	33033	69	4490	57	2717	1.6526	0.0006
+species	Streptococcus sp. 400_SSPC	1579341	68	3986	102	2411	1.6533	0.0006
+species	Campylobacter rectus	203	66	4602	74	3100	1.4845	0.0006
+species	Fusobacterium nucleatum	851	66	3776	40	2287	1.6511	0.0006
+species	Alloprevotella tannerae	76122	66	4852	97	3128	1.5512	0.0006
+species	Brochothrix thermosphacta	2756	66	4597	12	3012	1.5262	0.0006
+species	Gemella morbillorum	29391	64	3975	59	2588	1.5359	0.0006
+species	Candidatus Saccharibacteria oral taxon TM7x	1476577	63	4438	162	2972	1.4933	0.0006
+species	Fusobacterium periodonticum	860	62	3463	25	2059	1.6819	0.0006
+species	Propionibacterium humerusii	1050843	61	4010	10	3424	1.1711	0.0006
+species	Streptococcus cristatus	45634	58	3842	72	2207	1.7408	0.0005
+species	Actinomyces sp. S6-Spd3	1284680	57	3694	62	2973	1.2425	0.0005
+species	Treponema lecithinolyticum	53418	55	4259	31	2619	1.6262	0.0005
+species	Selenomonas infelix	135082	54	3587	60	2096	1.7114	0.0005
+species	Selenomonas flueggei	135080	53	3862	58	2696	1.4325	0.0005
+species	Acidovorax caeni	343013	53	3026	33	2313	1.3083	0.0005
+species	Streptococcus sp. F0442	999425	52	3143	36	2006	1.5668	0.0005
+species	Paracoccus versutus	34007	51	3045	36	2232	1.3642	0.0005
+species	Cardiobacterium valvarum	194702	51	3098	52	1923	1.6110	0.0005
+species	Atopobium parvulum	1382	51	2938	75	2050	1.4332	0.0005
+species	Acidovorax temperans	80878	50	3317	84	2432	1.3639	0.0005
+species	Bulleidia extructa	118748	49	3513	18	1999	1.7574	0.0005
+species	Treponema medium	58231	49	2803	82	2164	1.2953	0.0005
+species	Streptococcus sp. M334	563038	48	2888	23	1264	2.2848	0.0005
+species	Actinomyces sp. ICM39	1105029	48	2637	44	1961	1.3447	0.0005
+species	Veillonella atypica	39777	47	2338	16	1393	1.6784	0.0004
+species	Actinomyces sp. oral taxon 848	649739	47	2962	60	1956	1.5143	0.0004
+species	Isoptericola variabilis	139208	45	2620	34	1652	1.5860	0.0004
+species	Prevotella sp. oral taxon 473	712469	45	3186	77	1631	1.9534	0.0004
+species	Filifactor alocis	143361	44	3575	34	2140	1.6706	0.0004
+species	Streptococcus sp. SK643	1095727	41	2369	40	907	2.6119	0.0004
+species	Streptococcus sp. I-G2	1156431	40	2167	24	1051	2.0618	0.0004
+species	Actinomyces sp. HPA0247	1203556	40	2075	17	1271	1.6326	0.0004
+species	Streptococcus oligofermentans	195041	40	2211	39	1413	1.5648	0.0004
+species	Streptococcus gordonii	1302	39	2539	48	869	2.9217	0.0004
+species	Capnocytophaga sp. CM59	936370	39	2341	49	1854	1.2627	0.0004
+species	Atopobium sp. ICM42b	1190620	38	2261	41	1492	1.5154	0.0004
+species	Prevotella sp. HJM029	1433844	37	2806	52	1407	1.9943	0.0003
+species	Oribacterium parvum	1501329	36	2294	23	1498	1.5314	0.0003
+species	Veillonella sp. oral taxon 780	671229	36	2466	51	1578	1.5627	0.0003
+species	Peptostreptococcus stomatis	341694	36	2568	19	1520	1.6895	0.0003
+species	Xylanimonas cellulosilytica	186189	35	1938	5	1424	1.3610	0.0003
+species	Staphylococcus pasteuri	45972	35	1635	21	1012	1.6156	0.0003
+species	Catonella morbi	43997	34	2237	46	1856	1.2053	0.0003
+species	Streptococcus sp. 1171_SSPC	1579348	34	2063	22	1380	1.4949	0.0003
+species	Actinomyces sp. ICM54	936549	33	1878	15	1615	1.1628	0.0003
+species	Actinomyces sp. oral taxon 849	653385	32	1776	23	1124	1.5801	0.0003
+species	Lactobacillus helveticus	1587	32	1946	6	1510	1.2887	0.0003
+species	Capnocytophaga sp. oral taxon 329	706435	31	2014	42	1657	1.2154	0.0003
+species	Atopobium sp. BS2	936550	31	1865	38	1456	1.2809	0.0003
+species	Actinomyces sp. oral taxon 172	712118	31	1933	28	1296	1.4915	0.0003
+species	Porphyromonas somerae	322095	30	2015	43	1341	1.5026	0.0003
+species	Neisseria sicca	490	30	1899	25	1085	1.7502	0.0003
+species	Peptoniphilus lacrimalis	33031	29	1469	6	751	1.9561	0.0003
+species	Leptotrichia sp. oral taxon 215	712359	28	1845	17	973	1.8962	0.0003
+species	Streptococcus anginosus	1328	26	1507	9	959	1.5714	0.0002
+species	Capnocytophaga granulosa	45242	26	1553	28	1016	1.5285	0.0002
+species	Actinomyces sp. ICM58	1105030	26	1748	22	1018	1.7171	0.0002
+species	Capnocytophaga sp. oral taxon 326	712212	26	1488	24	831	1.7906	0.0002
+species	Streptococcus suis	1307	26	910	5	619	1.4701	0.0002
+species	Trueperella pyogenes	1661	25	1422	30	1162	1.2238	0.0002
+species	[Eubacterium] sulci	143393	25	2084	33	1018	2.0472	0.0002
+species	Prevotella melaninogenica	28132	24	1414	23	1009	1.4014	0.0002
+species	Actinomyces sp. ph3	1118058	23	1221	19	722	1.6911	0.0002
+species	Haemophilus haemolyticus	726	23	952	2	666	1.4294	0.0002
+species	Granulicatella adiacens	46124	23	1337	24	878	1.5228	0.0002
+species	Prevotella sp. F0091	1227276	22	1451	57	907	1.5998	0.0002
+species	Eikenella corrodens	539	22	1455	29	1022	1.4237	0.0002
+species	Leptotrichia buccalis	40542	22	1100	8	638	1.7241	0.0002
+species	Streptococcus sp. I-P16	1156433	21	1069	1	601	1.7787	0.0002
+species	Lactobacillus fermentum	1613	20	1634	21	858	1.9044	0.0002
+species	Veillonella sp. ACP1	936588	20	1097	11	727	1.5089	0.0002
+species	Prevotella buccae	28126	20	1249	6	688	1.8154	0.0002
+species	Porphyromonas sp. oral taxon 278	712437	19	1250	22	844	1.4810	0.0002
+species	Comamonas aquatica	225991	19	1228	24	688	1.7849	0.0002
+species	Psychrobacter sp. 1501(2011)	1002339	19	1443	10	788	1.8312	0.0002
+species	Prevotella shahii	228603	18	1194	30	914	1.3063	0.0002
+species	Propionibacterium freudenreichii	1744	18	1238	1	1220	1.0148	0.0002
+species	Haemophilus parahaemolyticus	735	18	1040	9	600	1.7333	0.0002
+species	Prevotella loescheii	840	18	1205	32	1001	1.2038	0.0002
+species	Fusobacterium sp. CM22	936563	17	1156	3	478	2.4184	0.0002
+species	Selenomonas sp. oral taxon 892	1321785	17	1111	42	766	1.4504	0.0002
+species	Leptotrichia goodfellowii	157692	17	1078	8	541	1.9926	0.0002
+species	Streptococcus sp. oral taxon 431	712633	17	880	19	513	1.7154	0.0002
+species	Campylobacter showae	204	17	1104	31	928	1.1897	0.0002
+species	Actinomyces timonensis	1288391	16	1016	29	785	1.2943	0.0002
+species	Treponema maltophilum	51160	16	1178	24	899	1.3103	0.0002
+species	Neisseria macacae	496	15	902	1	625	1.4432	0.0001
+species	Leptotrichia shahii	157691	15	797	3	361	2.2078	0.0001
+species	Selenomonas sp. oral taxon 478	712538	15	818	15	422	1.9384	0.0001
+species	Prevotella amnii	419005	15	1343	37	746	1.8003	0.0001
+species	Prevotella oralis	28134	14	1059	20	853	1.2415	0.0001
+species	Oribacterium asaccharolyticum	1501332	14	842	9	395	2.1316	0.0001
+species	Veillonella sp. 3_1_44	457416	14	1063	9	627	1.6954	0.0001
+species	Neisseria sp. GT4A_CT1	665946	14	741	16	413	1.7942	0.0001
+species	Streptococcus sp. HPH0090	1203590	14	750	9	508	1.4764	0.0001
+species	Veillonella sp. 6_1_27	450749	14	815	10	426	1.9131	0.0001
+species	Selenomonas sp. oral taxon 149	712535	13	616	10	392	1.5714	0.0001
+species	Porphyromonas catoniae	41976	13	941	13	828	1.1365	0.0001
+species	Capnocytophaga sputigena	1019	13	754	11	471	1.6008	0.0001
+species	Veillonella tobetsuensis	1110546	13	655	10	395	1.6582	0.0001
+species	Streptococcus sp. F0441	999424	13	717	9	362	1.9807	0.0001
+species	Acidovorax ebreus	721785	13	684	11	489	1.3988	0.0001
+species	Leptotrichia hofstadii	157688	12	602	1	438	1.3744	0.0001
+species	Psychrobacter sp. PAMC 21119	1112209	12	819	26	691	1.1852	0.0001
+species	Lachnospiraceae bacterium oral taxon 500	712991	12	742	15	346	2.1445	0.0001
+species	Prevotella sp. ICM33	1161412	12	865	18	524	1.6508	0.0001
+species	Lachnoanaerobaculum sp. ICM7	936594	11	584	6	351	1.6638	0.0001
+species	Leptotrichia sp. oral taxon 212	712357	11	748	18	493	1.5172	0.0001
+species	Neisseria sp. oral taxon 020	712401	11	600	10	470	1.2766	0.0001
+species	Aggregatibacter segnis	739	11	506	0	203	2.4926	0.0001
+species	Actinomyces sp. oral taxon 178	710238	11	515	1	460	1.1196	0.0001
+species	Neisseria lactamica	486	10	586	17	361	1.6233	0.0001
+species	Porphyromonas sp. oral taxon 279	712438	10	538	4	528	1.0189	0.0001
+species	Streptococcus equinus	1335	10	812	12	151	5.3775	0.0001
+species	Johnsonella ignava	43995	10	660	12	307	2.1498	0.0001
+species	Treponema denticola	158	10	653	15	513	1.2729	0.0001
+species	Actinomyces sp. oral taxon 877	1227263	10	398	2	276	1.4420	0.0001
+species	Veillonella sp. ICM51a	936591	10	650	4	516	1.2597	0.0001
+species	Streptococcus peroris	68891	10	404	5	213	1.8967	0.0001
+species	Capnocytophaga sp. oral taxon 332	712213	10	618	4	423	1.4610	0.0001
+species	Prevotella sp. oral taxon 299	652716	10	576	18	377	1.5279	0.0001
+species	Oribacterium sp. oral taxon 108	712414	10	651	13	473	1.3763	0.0001
+species	Leuconostoc carnosum	1252	10	686	4	450	1.5244	0.0001
+species	Actinomyces sp. oral taxon 181	712121	10	558	11	503	1.1093	0.0001
+species	Streptococcus sp. CCH5-D3	1768764	10	432	9	187	2.3102	0.0001
+species	Leptotrichia trevisanii	109328	10	609	10	470	1.2957	0.0001
+species	Streptococcus sp. 2_1_36FAA	469609	10	478	4	333	1.4354	0.0001
+species	Olsenella profusa	138595	9	468	17	269	1.7398	0.0001
+species	Pseudomonas fragi	296	9	493	19	293	1.6826	0.0001
+species	Porphyrobacter donghaensis	267135	9	307	4	109	2.8165	0.0001
+species	Leptotrichia sp. oral taxon 879	1227267	9	509	3	323	1.5759	0.0001
+species	Kingella denitrificans	502	9	669	16	495	1.3515	0.0001
+species	Stenotrophomonas maltophilia	40324	9	608	4	345	1.7623	0.0001
+species	Paracoccus sp. S4493	579490	9	730	22	335	2.1791	0.0001
+species	Prevotella sp. HUN102	1392486	9	698	27	564	1.2376	0.0001
+species	Psychrobacter sp. P11F6	1699621	8	698	19	259	2.6950	0.0001
+species	Streptococcus dentisani	1458253	8	330	4	131	2.5191	0.0001
+species	Lactobacillus brevis	1580	8	420	19	321	1.3084	0.0001
+species	Pseudomonas sp. L10.10	1788301	8	482	3	266	1.8120	0.0001
+species	Selenomonas sp. FOBRC6	936572	8	478	11	201	2.3781	0.0001
+species	Neisseria flavescens	484	8	606	13	292	2.0753	0.0001
+species	Mogibacterium timidum	35519	8	614	0	136	4.5147	0.0001
+species	Lachnoanaerobaculum sp. MSX33	936596	8	589	10	360	1.6361	0.0001
+species	Olsenella sp. SIT9	1622075	8	290	4	222	1.3063	0.0001
+species	Acidovorax delafieldii	47920	7	432	0	264	1.6364	0.0001
+species	Alistipes putredinis	28117	7	532	5	295	1.8034	0.0001
+species	Prevotella multiformis	282402	7	509	23	252	2.0198	0.0001
+species	Neisseria subflava	28449	7	402	4	294	1.3673	0.0001
+species	Prevotella bivia	28125	7	414	3	200	2.0700	0.0001
+species	Porphyromonas sp. KLE 1280	997829	7	283	2	236	1.1992	0.0001
+species	Paracoccus sp. 228	1192054	7	574	14	415	1.3831	0.0001
+species	Pseudomonas putida	303	7	450	6	198	2.2727	0.0001
+species	Lachnospiraceae bacterium oral taxon 082	712976	7	377	1	317	1.1893	0.0001
+species	[Eubacterium] rectale	39491	7	594	2	352	1.6875	0.0001
+species	Escherichia coli	562	7	444	5	279	1.5914	0.0001
+species	Faecalibacterium prausnitzii	853	7	486	5	322	1.5093	0.0001
+species	Pseudomonas sp. 20_BN	1499686	7	466	1	339	1.3746	0.0001
+species	Neisseria sp. oral taxon 014	641148	6	356	3	132	2.6970	0.0001
+species	Corynebacterium jeikeium	38289	6	290	5	162	1.7901	0.0001
+species	Pseudomonas thermotolerans	157784	6	374	8	252	1.4841	0.0001
+species	Prevotella falsenii	515414	6	507	21	327	1.5505	0.0001
+species	Elizabethkingia anophelis	1117645	6	375	0	189	1.9841	0.0001
+species	Streptococcus sp. C300	563036	6	411	4	163	2.5215	0.0001
+species	Simonsiella muelleri	72	6	357	4	351	1.0171	0.0001
+species	Streptococcus intermedius	1338	6	415	3	275	1.5091	0.0001
+species	Acidovorax sp. JS42	232721	6	258	3	221	1.1674	0.0001
+species	Atopobium sp. oral taxon 810	712158	6	447	19	353	1.2663	0.0001
+species	Acinetobacter johnsonii	40214	5	325	5	320	1.0156	0.0000
+species	Pseudomonas alcaligenes	43263	5	315	9	231	1.3636	0.0000
+species	Slackia sp. CM382	1111137	5	206	1	167	1.2335	0.0000
+species	Brachymonas chironomi	491919	5	263	3	121	2.1736	0.0000
+species	Veillonella sp. HPA0037	1203593	5	225	7	159	1.4151	0.0000
+species	Stenotrophomonas acidaminiphila	128780	5	232	0	183	1.2678	0.0000
+species	Selenomonas sp. FOBRC9	936573	5	346	3	242	1.4298	0.0000
+species	Streptococcus constellatus	76860	5	226	1	144	1.5694	0.0000
+species	Actinomyces georgiae	52768	5	264	2	259	1.0193	0.0000
+species	Capnocytophaga sp. oral taxon 323	1705617	5	197	2	80	2.4625	0.0000
+species	Propionibacterium acnes	1747	5	371	14	286	1.2972	0.0000
+species	Streptococcus sp. AS14	936577	5	342	0	147	2.3265	0.0000
+species	Corynebacterium argentoratense	42817	5	281	0	221	1.2715	0.0000
+species	Streptococcus sp. SK140	1095726	5	205	4	116	1.7672	0.0000
+species	Dysgonomonas sp. BGC7	1658008	5	377	1	372	1.0134	0.0000
+species	Olsenella uli	133926	5	251	6	149	1.6846	0.0000
+species	Serratia grimesii	82995	5	306	16	190	1.6105	0.0000
+species	Alicycliphilus sp. B1	1603291	4	248	12	180	1.3778	0.0000
+species	Pandoraea norimbergensis	93219	4	171	0	83	2.0602	0.0000
+species	Morococcus cerebrosus	1056807	4	231	4	182	1.2692	0.0000
+species	Prevotella sp. oral taxon 472	655809	4	311	8	226	1.3761	0.0000
+species	Streptococcus tigurinus	1077464	4	158	1	154	1.0260	0.0000
+species	Selenomonas sp. oral taxon 138	712532	4	293	9	190	1.5421	0.0000
+species	Prevotella fusca	589436	4	263	13	172	1.5291	0.0000
+species	Paracoccus pantotrophus	82367	4	174	1	170	1.0235	0.0000
+species	Sphingopyxis sp. A083	1759083	4	138	0	67	2.0597	0.0000
+species	Delftia acidovorans	80866	4	259	3	179	1.4469	0.0000
+species	Streptococcus sp. ACS2	936576	4	240	2	194	1.2371	0.0000
+species	Slackia exigua	84109	4	302	0	128	2.3594	0.0000
+species	Corynebacterium sp. GD7	1232427	4	331	9	238	1.3908	0.0000
+species	Prevotella sp. MSX73	1032506	4	150	0	78	1.9231	0.0000
+species	Ruminococcus lactaris	46228	4	156	1	113	1.3805	0.0000
+species	Mitsuokella sp. oral taxon 131	1321780	4	181	2	147	1.2313	0.0000
+species	Capnocytophaga sp. oral taxon 380	712217	4	288	2	142	2.0282	0.0000
+species	Fusobacterium hwasookii	1583098	4	144	2	140	1.0286	0.0000
+species	Prevotella scopos	589437	4	190	4	102	1.8627	0.0000
+species	Haemophilus sp. oral taxon 851	762964	4	204	4	100	2.0400	0.0000
+species	[Pasteurella] pneumotropica	758	4	143	1	139	1.0288	0.0000
+species	Kytococcus sedentarius	1276	4	209	4	152	1.3750	0.0000
+species	Pseudomonas aeruginosa	287	4	316	3	258	1.2248	0.0000
+species	Chryseobacterium haifense	421525	4	233	0	229	1.0175	0.0000
+species	Mycoplasma salivarium	2124	4	208	1	166	1.2530	0.0000
+species	Psychrobacter aquaticus	248452	3	134	3	91	1.4725	0.0000
+species	Paracoccus aestuarii	453842	3	213	3	99	2.1515	0.0000
+species	Streptococcus sp. SR1	1161416	3	120	2	74	1.6216	0.0000
+species	Propionibacterium acidifaciens	556499	3	119	3	78	1.5256	0.0000
+species	Serratia liquefaciens	614	3	114	3	82	1.3902	0.0000
+species	Haemophilus sp. C1	1661745	3	235	0	140	1.6786	0.0000
+species	Streptococcus sp. SR4	1161417	3	156	2	153	1.0196	0.0000
+species	Atopobium sp. oral taxon 199	712156	3	240	6	237	1.0127	0.0000
+species	Cardiobacterium hominis	2718	3	156	1	153	1.0196	0.0000
+species	Paracoccus sp. PAMC 22219	1569209	3	205	1	152	1.3487	0.0000
+species	Gulbenkiania mobilis	397457	3	218	3	215	1.0140	0.0000
+species	Streptococcus sp. CM6	936580	3	194	8	66	2.9394	0.0000
+species	Bacteroides pyogenes	310300	3	128	2	96	1.3333	0.0000
+species	Enterococcus pallens	160454	3	99	0	64	1.5469	0.0000
+species	Treponema succinifaciens	167	3	197	6	140	1.4071	0.0000
+species	Thauera terpenica	76113	3	136	2	81	1.6790	0.0000
+species	Prevotella aurantiaca	596085	3	185	0	140	1.3214	0.0000
+species	Paracoccus sp. N5	1101189	3	143	4	95	1.5053	0.0000
+species	Diaphorobacter sp. J5-51	680496	3	139	1	136	1.0221	0.0000
+species	Psychrobacter glacincola	56810	3	165	4	162	1.0185	0.0000
+species	Sphingobium yanoikuyae	13690	3	97	0	65	1.4923	0.0000
+species	Actinomyces slackii	52774	3	98	0	62	1.5806	0.0000

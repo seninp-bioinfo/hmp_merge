@@ -1,0 +1,162 @@
+LEVEL	NAME	TAXID	READ_COUNT	TOTAL_BP_MAPPED	TOTAL_BP_MISMATCH	LINEAR_LENGTH	LINEAR_DOC	REL_ABUNDANCE
+superkingdom	Bacteria	2	1246069	89829341	343515	4711074	19.0677	1.0000
+phylum	Firmicutes	1239	1245568	89794558	343164	4682674	19.1759	0.9996
+phylum	Bacteroidetes	976	178	13880	169	12654	1.0969	0.0001
+phylum	Actinobacteria	201174	134	9209	99	8511	1.0820	0.0001
+phylum	Proteobacteria	1224	90	5430	67	4618	1.1758	0.0001
+phylum	Chlamydiae	204428	73	5177	12	2024	2.5578	0.0001
+phylum	Deinococcus-Thermus	1297	11	605	4	560	1.0804	0.0000
+class	Bacilli	91061	1244185	89706384	341053	4610296	19.4578	0.9985
+class	Clostridia	186801	1210	76023	1900	61568	1.2348	0.0010
+class	Bacteroidia	200643	177	13844	169	12619	1.0971	0.0001
+class	Tissierellia	1737404	143	9764	172	8804	1.1090	0.0001
+class	Actinobacteria	1760	121	8383	87	7786	1.0767	0.0001
+class	Chlamydiia	204429	73	5177	12	2024	2.5578	0.0001
+class	Gammaproteobacteria	1236	41	2700	32	2372	1.1383	0.0000
+class	Betaproteobacteria	28216	40	2246	25	1771	1.2682	0.0000
+class	Negativicutes	909932	30	2387	39	2006	1.1899	0.0000
+class	Coriobacteriia	84998	13	826	12	725	1.1393	0.0000
+class	Deinococci	188787	11	605	4	560	1.0804	0.0000
+class	Alphaproteobacteria	28211	6	305	3	299	1.0201	0.0000
+class	Epsilonproteobacteria	29547	3	179	7	176	1.0170	0.0000
+order	Lactobacillales	186826	1244160	89705223	341045	4609724	19.4600	0.9985
+order	Clostridiales	186802	1210	76023	1900	61568	1.2348	0.0010
+order	Bacteroidales	171549	177	13844	169	12619	1.0971	0.0001
+order	Tissierellales	1737405	142	9663	172	8704	1.1102	0.0001
+order	Chlamydiales	51291	73	5177	12	2024	2.5578	0.0001
+order	Micrococcales	85006	33	2043	23	1908	1.0708	0.0000
+order	Burkholderiales	80840	31	1726	21	1290	1.3380	0.0000
+order	Veillonellales	1843489	30	2387	39	2006	1.1899	0.0000
+order	Actinomycetales	2037	30	2302	30	2130	1.0808	0.0000
+order	Bacillales	1385	25	1161	8	572	2.0297	0.0000
+order	Propionibacteriales	85009	24	1568	4	1501	1.0446	0.0000
+order	Pseudomonadales	72274	20	1561	21	1378	1.1328	0.0000
+order	Bifidobacteriales	85004	18	1380	3	1315	1.0494	0.0000
+order	Corynebacteriales	85007	16	1090	27	932	1.1695	0.0000
+order	Coriobacteriales	84999	12	796	12	696	1.1437	0.0000
+order	Thermales	68933	11	605	4	560	1.0804	0.0000
+order	Enterobacteriales	91347	9	561	10	460	1.2196	0.0000
+order	Xanthomonadales	135614	8	404	1	396	1.0202	0.0000
+order	Rhodocyclales	206389	5	342	3	337	1.0148	0.0000
+order	Campylobacterales	213849	3	179	7	176	1.0170	0.0000
+order	Rhizobiales	356	3	130	3	127	1.0236	0.0000
+order	Neisseriales	206351	3	143	1	110	1.3000	0.0000
+family	Lactobacillaceae	33958	1244113	89701781	341009	4607116	19.4703	0.9985
+family	Clostridiaceae	31979	1196	74934	1889	60770	1.2331	0.0010
+family	Prevotellaceae	171552	173	13553	167	12332	1.0990	0.0001
+family	Peptoniphilaceae	1570339	142	9663	172	8704	1.1102	0.0001
+family	Chlamydiaceae	809	73	5177	12	2024	2.5578	0.0001
+family	Micrococcaceae	1268	30	1825	20	1693	1.0780	0.0000
+family	Actinomycetaceae	2049	30	2302	30	2130	1.0808	0.0000
+family	Veillonellaceae	31977	30	2387	39	2006	1.1899	0.0000
+family	Comamonadaceae	80864	28	1585	20	1152	1.3759	0.0000
+family	Streptococcaceae	1300	24	1819	25	1317	1.3812	0.0000
+family	Propionibacteriaceae	31957	24	1568	4	1501	1.0446	0.0000
+family	Bacillaceae	186817	19	752	4	223	3.3722	0.0000
+family	Bifidobacteriaceae	31953	18	1380	3	1315	1.0494	0.0000
+family	Aerococcaceae	186827	18	1226	11	1044	1.1743	0.0000
+family	Pseudomonadaceae	135621	14	1123	16	946	1.1871	0.0000
+family	Ruminococcaceae	541000	13	1052	11	762	1.3806	0.0000
+family	Coriobacteriaceae	84107	12	796	12	696	1.1437	0.0000
+family	Thermaceae	188786	11	605	4	560	1.0804	0.0000
+family	Corynebacteriaceae	1653	10	742	16	590	1.2576	0.0000
+family	Enterobacteriaceae	543	9	561	10	460	1.2196	0.0000
+family	Xanthomonadaceae	32033	8	404	1	396	1.0202	0.0000
+family	Moraxellaceae	468	6	438	5	432	1.0139	0.0000
+family	Rhodocyclaceae	75787	5	342	3	337	1.0148	0.0000
+family	Staphylococcaceae	90964	5	322	1	263	1.2243	0.0000
+family	Rikenellaceae	171550	3	251	2	248	1.0121	0.0000
+family	Campylobacteraceae	72294	3	179	7	176	1.0170	0.0000
+genus	Lactobacillus	1578	1244113	89701781	341009	4607116	19.4703	0.9985
+genus	Clostridium	1485	1196	74934	1889	60770	1.2331	0.0010
+genus	Prevotella	838	173	13553	167	12332	1.0990	0.0001
+genus	Chlamydia	810	73	5177	12	2024	2.5578	0.0001
+genus	Finegoldia	150022	71	4979	70	4560	1.0919	0.0001
+genus	Anaerococcus	165779	36	2099	49	1761	1.1919	0.0000
+genus	Peptoniphilus	162289	33	2452	53	2252	1.0888	0.0000
+genus	Propionibacterium	1743	24	1568	4	1501	1.0446	0.0000
+genus	Dialister	39948	22	1722	24	1432	1.2025	0.0000
+genus	Varibaculum	184869	19	1614	26	1521	1.0611	0.0000
+genus	Streptococcus	1301	18	1395	18	899	1.5517	0.0000
+genus	Gardnerella	2701	18	1380	3	1315	1.0494	0.0000
+genus	Bacillus	1386	17	598	0	71	8.4225	0.0000
+genus	Kocuria	57493	15	872	5	857	1.0175	0.0000
+genus	Pseudomonas	286	14	1123	16	946	1.1871	0.0000
+genus	Rothia	32207	12	758	6	703	1.0782	0.0000
+genus	Verminephrobacter	364316	11	585	4	227	2.5771	0.0000
+genus	Thermus	270	11	605	4	560	1.0804	0.0000
+genus	Acidovorax	12916	11	611	15	542	1.1273	0.0000
+genus	Facklamia	66831	11	911	9	900	1.0122	0.0000
+genus	Corynebacterium	1716	10	742	16	590	1.2576	0.0000
+genus	Ruminococcus	1263	8	718	8	470	1.5277	0.0000
+genus	Stenotrophomonas	40323	8	404	1	396	1.0202	0.0000
+genus	Aerococcus	1375	7	315	2	144	2.1875	0.0000
+genus	Lactococcus	1357	6	424	7	418	1.0144	0.0000
+genus	Arcanobacterium	28263	6	326	0	288	1.1319	0.0000
+genus	Acinetobacter	469	6	438	5	432	1.0139	0.0000
+genus	Megasphaera	906	6	553	15	515	1.0738	0.0000
+genus	Lawsonella	1847725	5	316	11	311	1.0161	0.0000
+genus	Staphylococcus	1279	5	322	1	263	1.2243	0.0000
+genus	Dechloromonas	73029	5	342	3	337	1.0148	0.0000
+genus	Faecalibacterium	216851	3	132	0	92	1.4348	0.0000
+genus	Alistipes	239759	3	251	2	248	1.0121	0.0000
+genus	Escherichia	561	3	127	1	124	1.0242	0.0000
+genus	Campylobacter	194	3	179	7	176	1.0170	0.0000
+species	Lactobacillus crispatus	47770	1242205	89569850	339538	4485782	19.9675	0.9970
+species	Lactobacillus jensenii	109790	1260	87341	298	81367	1.0734	0.0010
+species	Clostridium sp. ND2	1347366	1157	72877	1866	59064	1.2339	0.0009
+species	Lactobacillus vaginalis	1633	426	31065	980	28586	1.0867	0.0003
+species	Lactobacillus iners	147802	102	6216	48	4827	1.2878	0.0001
+species	Prevotella disiens	28130	85	6578	34	6100	1.0784	0.0001
+species	Chlamydia trachomatis	813	73	5177	12	2024	2.5578	0.0001
+species	Finegoldia magna	1260	71	4979	70	4560	1.0919	0.0001
+species	Prevotella timonensis	386414	68	5648	115	5261	1.0736	0.0001
+species	Peptoniphilus harei	54005	32	2415	53	2216	1.0898	0.0000
+species	Lactobacillus reuteri	1598	27	1656	66	1259	1.3153	0.0000
+species	Lactobacillus coleohominis	181675	25	2029	9	1891	1.0730	0.0000
+species	Anaerococcus hydrogenalis	33029	22	1247	22	1032	1.2083	0.0000
+species	Dialister micraerophilus	309120	21	1655	22	1366	1.2116	0.0000
+species	Varibaculum cambriense	184870	19	1614	26	1521	1.0611	0.0000
+species	Gardnerella vaginalis	2702	18	1380	3	1315	1.0494	0.0000
+species	Propionibacterium humerusii	1050843	16	992	2	976	1.0164	0.0000
+species	Clostridium perfringens	1502	16	923	3	695	1.3281	0.0000
+species	Lactobacillus gasseri	1596	14	940	1	856	1.0981	0.0000
+species	Clostridium colicanis	179628	13	732	11	619	1.1826	0.0000
+species	Kocuria rhizophila	72000	13	739	3	726	1.0179	0.0000
+species	Coriobacteriaceae bacterium BV3Ac1	1111135	12	796	12	696	1.1437	0.0000
+species	Verminephrobacter aporrectodeae	1110389	11	585	4	227	2.5771	0.0000
+species	Thermus aquaticus	271	11	605	4	560	1.0804	0.0000
+species	Rothia mucilaginosa	43675	10	573	4	520	1.1019	0.0000
+species	Facklamia hominis	178214	9	777	6	768	1.0117	0.0000
+species	Stenotrophomonas maltophilia	40324	8	404	1	396	1.0202	0.0000
+species	Streptococcus agalactiae	1311	8	627	4	491	1.2770	0.0000
+species	Lactobacillus kefiranofaciens	267818	7	333	12	326	1.0215	0.0000
+species	Aerococcus christensenii	87541	7	315	2	144	2.1875	0.0000
+species	Acidovorax temperans	80878	7	390	7	383	1.0183	0.0000
+species	Lactobacillus acidophilus	1579	7	245	2	208	1.1779	0.0000
+species	Lactococcus lactis	1358	6	424	7	418	1.0144	0.0000
+species	Arcanobacterium haemolyticum	28264	6	326	0	288	1.1319	0.0000
+species	Streptococcus suis	1307	6	547	10	191	2.8639	0.0000
+species	Prevotella buccalis	28127	5	231	5	179	1.2905	0.0000
+species	Lactobacillus oris	1632	5	409	12	404	1.0124	0.0000
+species	Dechloromonas agitata	73030	5	342	3	337	1.0148	0.0000
+species	Lawsonella clevelandensis	1528099	5	316	11	311	1.0161	0.0000
+species	Ruminococcus bicirculans	1160721	4	356	8	279	1.2760	0.0000
+species	Anaerococcus lactolyticus	33032	4	335	20	257	1.3035	0.0000
+species	Lactobacillus johnsonii	33959	4	266	11	262	1.0153	0.0000
+species	Megasphaera micronuciformis	187326	4	356	13	352	1.0114	0.0000
+species	Prevotella sp. S7-1-8	1284775	4	297	7	265	1.1208	0.0000
+species	Propionibacterium propionicum	1750	4	269	0	222	1.2117	0.0000
+species	Anaerococcus sp. PH9	1118055	4	211	2	207	1.0193	0.0000
+species	Propionibacterium acnes	1747	4	307	2	303	1.0132	0.0000
+species	Prevotella denticola	28129	4	389	2	193	2.0155	0.0000
+species	Pseudomonas monteilii	76759	3	197	1	194	1.0155	0.0000
+species	Lactobacillus fermentum	1613	3	263	3	260	1.0115	0.0000
+species	Escherichia coli	562	3	127	1	124	1.0242	0.0000
+species	Pseudomonas pseudoalcaligenes	330	3	206	0	153	1.3464	0.0000
+species	Lactobacillus helveticus	1587	3	149	8	94	1.5851	0.0000
+species	Faecalibacterium prausnitzii	853	3	132	0	92	1.4348	0.0000
+species	Prevotella bivia	28125	3	139	0	136	1.0221	0.0000
+species	Alistipes putredinis	28117	3	251	2	248	1.0121	0.0000
+species	Pseudomonas alcaligenes	43263	3	249	7	170	1.4647	0.0000
+species	Anaerococcus prevotii	33034	3	169	3	131	1.2901	0.0000
